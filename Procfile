@@ -1,0 +1,1 @@
+web gunicorn sultana_pro.wsgi:application --log-file -
